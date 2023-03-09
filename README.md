@@ -13,15 +13,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 ## EXPERIENCE
-### **Silpo**, Dnipro - *Deputy store manager*
+**Silpo**, Dnipro - *Deputy store manager*
  April 2022 - August 2022
-### **Silpo**, Dnipro - *Training specialist*
+**Silpo**, Dnipro - *Training specialist*
  August 2018 - April 2022
-### **Silpo**, Dnipro - *Trading hall manager*
+**Silpo**, Dnipro - *Trading hall manager*
  July 2017 - August 2018
-### **Silpo**, Dnipro - *Manager of trade department*
+**Silpo**, Dnipro - *Manager of trade department*
  September 2015 - July 2017
-### **Silpo**, Dnipro - *Seller*
+**Silpo**, Dnipro - *Seller*
  November 2014 - September 2015
 
 ## EDUCATION
@@ -31,8 +31,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 | Oles Honchar Dnipro National University |  Ukraine, Dnipro |  Specialist of engineer |  2014 |
 
 ## PROJECTS
+E-SHOP Flask
+    Stack: Python, Flask, Flask-SQLAlchemy, Bootstrap, HTMLS, CSS.
+    [github.com/oleg-soshko/i-Shop](http://github.com/oleg-soshko/i-Shop)
+
+E-SHOP Django
+    Stack: Python, Django, Bootstrap, HTML, CSS.
+    [github.com/oleg-soshko/django_store](http://github.com/oleg-soshko/django_store)
 
 ## SKILLS
+
+* Python 
+* Django, Flask
+* SQL
+* Docker
+* HTML, CSS, Bootstrap
 
 ## CERTIFICATIONS
 
