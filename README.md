@@ -65,6 +65,7 @@ I have experience in developing pet projects.
 ## SOCIAL LINKS
 * [Github](https://github.com/oleg-soshko)
 * [Linkedin](https://www.linkedin.com/in/oleg-soshko/)
+* [GitCV](https://oleg-soshko.github.io/rsschool-cv/cv)
 ## CONTACT ME
 * [soshko.oleg.ua@gmail.com](mailto:soshko.oleg.ua@gmail.com)
 * [Telegram](https://t.me/o_soshko)
