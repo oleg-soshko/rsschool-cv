@@ -1,6 +1,7 @@
 # Oleg Soshko #
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim eu turpis egestas pretium aenean. Dis parturient montes nascetur ridiculus mus mauris vitae. Duis ultricies lacus sed turpis tincidunt id aliquet. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
+My name is Oleg and I am a programmer. 
+I have experience in developing pet projects.
 
 - [EXPERIENCE](#experience)
 - [EDUCATION](#education)
@@ -31,13 +32,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 | Oles Honchar Dnipro National University |  Ukraine, Dnipro |  Specialist of engineer |  2014 |
 
 ## PROJECTS
-E-SHOP Flask
-    Stack: Python, Flask, Flask-SQLAlchemy, Bootstrap, HTMLS, CSS.
-    [github.com/oleg-soshko/i-Shop](http://github.com/oleg-soshko/i-Shop)
+#### E-SHOP Flask
+* Stack: Python, Flask, Flask-SQLAlchemy, Bootstrap, HTMLS, CSS.
+    [github.com/oleg-soshko/i-Shop](https://github.com/oleg-soshko/i-Shop)
 
-E-SHOP Django
-    Stack: Python, Django, Bootstrap, HTML, CSS.
-    [github.com/oleg-soshko/django_store](http://github.com/oleg-soshko/django_store)
+#### E-SHOP Django
+* Stack: Python, Django, Bootstrap, HTML, CSS.
+    [github.com/oleg-soshko/django_store](https://github.com/oleg-soshko/django_store)
 
 ## SKILLS
 
@@ -49,8 +50,21 @@ E-SHOP Django
 
 ## CERTIFICATIONS
 
+• Python Core (Sololearn)
+• Intermediate Python (Sololearn)
+• Python Essential (TemaBit)
+• Programming in Python (stepik)
+• Python for Beginners (Sololearn) 
+• Python Starter (TemaBit)
+• SQL for nDEV's (TemaBit)
+
 ## LANGUAGES
+* Ukraine - Native
+* English - Pre-Intermediate
 
 ## SOCIAL LINKS
-
+* [Github](https://github.com/oleg-soshko)
+* [Linkedin](https://www.linkedin.com/in/oleg-soshko/)
 ## CONTACT ME
+* [soshko.oleg.ua@gmail.com](mailto:soshko.oleg.ua@gmail.com)
+* [Telegram](https://t.me/o_soshko)
