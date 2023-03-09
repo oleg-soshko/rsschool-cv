@@ -14,16 +14,16 @@ I have experience in developing pet projects.
 
 
 ## EXPERIENCE
-**Silpo**, Dnipro - *Deputy store manager*
- April 2022 - August 2022
-**Silpo**, Dnipro - *Training specialist*
- August 2018 - April 2022
-**Silpo**, Dnipro - *Trading hall manager*
- July 2017 - August 2018
-**Silpo**, Dnipro - *Manager of trade department*
- September 2015 - July 2017
-**Silpo**, Dnipro - *Seller*
- November 2014 - September 2015
+**Silpo**, Dnipro - *Deputy store manager*  
+    April 2022 - August 2022  
+**Silpo**, Dnipro - *Training specialist*  
+    August 2018 - April 2022  
+**Silpo**, Dnipro - *Trading hall manager*  
+    July 2017 - August 2018  
+**Silpo**, Dnipro - *Manager of trade department*  
+    September 2015 - July 2017  
+**Silpo**, Dnipro - *Seller*  
+    November 2014 - September 2015  
 
 ## EDUCATION
 
@@ -33,11 +33,11 @@ I have experience in developing pet projects.
 
 ## PROJECTS
 #### E-SHOP Flask
-* Stack: Python, Flask, Flask-SQLAlchemy, Bootstrap, HTMLS, CSS.
+* Stack: Python, Flask, Flask-SQLAlchemy, Bootstrap, HTMLS, CSS.  
     [github.com/oleg-soshko/i-Shop](https://github.com/oleg-soshko/i-Shop)
 
 #### E-SHOP Django
-* Stack: Python, Django, Bootstrap, HTML, CSS.
+* Stack: Python, Django, Bootstrap, HTML, CSS.  
     [github.com/oleg-soshko/django_store](https://github.com/oleg-soshko/django_store)
 
 ## SKILLS
@@ -50,13 +50,13 @@ I have experience in developing pet projects.
 
 ## CERTIFICATIONS
 
-• Python Core (Sololearn)
-• Intermediate Python (Sololearn)
-• Python Essential (TemaBit)
-• Programming in Python (stepik)
-• Python for Beginners (Sololearn) 
-• Python Starter (TemaBit)
-• SQL for nDEV's (TemaBit)
+• Python Core (Sololearn)  
+• Intermediate Python (Sololearn)  
+• Python Essential (TemaBit)  
+• Programming in Python (stepik)  
+• Python for Beginners (Sololearn)  
+• Python Starter (TemaBit)  
+• SQL for nDEV's (TemaBit)  
 
 ## LANGUAGES
 * Ukraine - Native
